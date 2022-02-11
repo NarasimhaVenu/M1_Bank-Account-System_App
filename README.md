@@ -20,3 +20,11 @@
 * Delete
 * Updating
 * Issue
+
+# Codacy Badge
+* [![Codacy Badge](https://app.codacy.com/project/badge/Grade/5ebb70dcbe904891b7b944831e0ab737)](https://www.codacy.com/gh/NarasimhaVenu/M1_librarymanagementsystem_App/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=NarasimhaVenu/M1_librarymanagementsystem_App&amp;utm_campaign=Badge_Grade)
+# Code Quality
+* https://api.codiga.io/project/31036/score/svg
+
+# Code Grade
+*https://api.codiga.io/project/31036/status/svg
